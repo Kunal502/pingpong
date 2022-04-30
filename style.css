@@ -1,0 +1,40 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h1{
+    display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading button{
+    float: right;
+    font-size: 18px;
+    border: 1px solid white;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#play, .restart{
+    font-size: 18px;
+}
+
+#footer{
+    line-height: 2;
+    background-color: rgb(230, 230, 230);
+    margin: 0px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+canvas{
+    border: 3px solid;
+    box-shadow: 5px 5px 5px blue;
+    
+}
